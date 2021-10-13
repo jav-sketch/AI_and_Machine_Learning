@@ -2,7 +2,7 @@
 
 Learning to build machine learning models with tensorflow.
 
---- 
+---
 
 ## Contributors
 
