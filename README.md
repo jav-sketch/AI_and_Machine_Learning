@@ -1,6 +1,6 @@
 # MAchine and AI leanring
 
-Learning the build machine learning models with tensorflow.
+Learning to build machine learning models with tensorflow.
 
 --- 
 
